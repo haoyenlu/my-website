@@ -1,0 +1,19 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "<img align=\"right\" width=\"150\" alt=\"logo\" src=\"https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinacms": "^1.6.5"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.5.47",
+    "@types/node": "^20.14.10"
+  }
+}
