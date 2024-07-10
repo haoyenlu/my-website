@@ -18,5 +18,4 @@ menu:
 comments: false
 ---
 
-## Introduction
 Click the link to my social media profile
