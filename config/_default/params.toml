@@ -5,25 +5,25 @@ rssFullContent = true
 favicon = "/favicon.png"
 
 [footer]
-since = 2020
-customText = ""
+since = 2024
+customText = "haoenlu"
 
 [dateFormat]
 published = "Jan 02, 2006"
 lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+emoji = "😀"
+subtitle = "Welcome to my blog!"
 
-[sidebar.avatar]
+[sidebar.avatar]    
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar.jpg"
 
 [article]
 headingAnchor = false
-math = false
+math = true
 readingTime = true
 
 [article.license]

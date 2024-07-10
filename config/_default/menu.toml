@@ -10,15 +10,26 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/haoyenlu"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "threads"
+name = "Threads"
+url = "https://www.threads.net/"
 
 [social.params]
-icon = "brand-twitter"
+icon = "threads"
+
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/haoenlu/"
+
+[social.params]
+icon = "linkedin"
+
+
