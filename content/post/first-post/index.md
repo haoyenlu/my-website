@@ -2,8 +2,8 @@
 title: "First Post"
 description: "My first post on this website"
 date: 2024-07-10T15:14:59-04:00
-slug: "first-post"
-image: 
+slug: first-post
+image: conver.jpg
 math: 
 license: 
 comments: true

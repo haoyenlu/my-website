@@ -6,15 +6,15 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2024
-customText = "haoenlu"
+customText = "By haoenlu"
 
 [dateFormat]
-published = "Jan 02, 2006"
-lastUpdated = "Jan 02, 2006 15:04 MST"
+published = "Jul 07, 2024"
+lastUpdated = "Jul 07, 2024 15:04 MST"
 
 [sidebar]
 emoji = "😀"
-subtitle = "Welcome to my blog!"
+subtitle = "Hi, welcome to my blog!"
 
 [sidebar.avatar]    
 enabled = true
@@ -23,22 +23,17 @@ src = "img/avatar.jpg"
 
 [article]
 headingAnchor = false
-math = true
+math = false
 readingTime = true
 
 [article.license]
-enabled = true
+enabled = false
 default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
 type = "search"
 
-[[widgets.homepage]]
-type = "archives"
-
-[widgets.homepage.params]
-limit = 5
 
 [[widgets.homepage]]
 type = "categories"
@@ -52,17 +47,23 @@ type = "tag-cloud"
 [widgets.homepage.params]
 limit = 10
 
+[[widgets.homepage]]
+type = "archives"
+
+[widgets.homepage.params]
+limit = 5
+
 [[widgets.page]]
 type = "toc"
 
 [opengraph.twitter]
-site = ""
+site = "https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v4/haoenlu-blog.ptolemyth.com/Hao-En%20Lu%20Blog/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fimages%2F56188dc2-e3c3-4ce5-a8b1-1323953e37b9.jpg%3Ftoken%3DhOY-wLL-tV2Wb6eqlpzb3hUOqYMZbXQ3az2flBDqaSs%26height%3D800%26width%3D1200%26expires%3D33251249770/og.png"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
-enabled = false
+enabled = true
 local = false
-src = ""
+src = "https://ogcdn.net/e4b8c678-7bd5-445d-ba03-bfaad510c686/v4/haoenlu-blog.ptolemyth.com/Hao-En%20Lu%20Blog/https%3A%2F%2Fopengraph.b-cdn.net%2Fproduction%2Fimages%2F56188dc2-e3c3-4ce5-a8b1-1323953e37b9.jpg%3Ftoken%3DhOY-wLL-tV2Wb6eqlpzb3hUOqYMZbXQ3az2flBDqaSs%26height%3D800%26width%3D1200%26expires%3D33251249770/og.png"
 
 [colorScheme]
 toggle = true
