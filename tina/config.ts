@@ -1,4 +1,6 @@
 import { defineConfig } from "tinacms";
+import Post from "./collections/posts";
+import Category from "./collections/categories";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -27,70 +29,6 @@ export default defineConfig({
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
   schema: {
-    collections: [
-      {
-        name: "post",
-        label: "Posts",
-        path: "content/post",
-        fields: [
-          {
-            type: "string",
-            name: "title",
-            label: "Title",
-            isTitle: true,
-            required: true,
-          },
-          {
-            type: "string",
-            name: "description",
-            label: "Description",
-            required: true,
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date",
-            ui: {
-              dateFormat: 'YYYY-MM-DD',
-              parse: (value) => value && value.format('YYYY-MM-DD'),
-            }
-          },
-          {
-            type: "string",
-            name: "categories",
-            label: "Categories",
-            list: true,
-          },
-          {
-            type: "string",
-            name: "tags",
-            label: "Tags",
-            list: true,
-          },
-          {
-            type: "image",
-            name: "image",
-            label: "Image",
-          },
-          {
-            type: "number",
-            name: "weight",
-            label: "Weight"
-          },
-          {
-            type: "boolean",
-            name: "comments",
-            label: "Comments"
-          },
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body",
-            isBody: true,
-          },
-          
-        ],
-      },
-    ],
+    collections: [Post,Category],
   },
 });
