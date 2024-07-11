@@ -15,10 +15,10 @@ comments: true
 
 I have attended two hackathons during my graduate study. One is within my school (CWRU) and another one is hosted by Tiktok. My exprience of these two hackathon are entirely different. Although I am just a novice in software development and the projects I have accomplished are very simple, I still love to attend Hackathon and create cool project of my own idea.
 
-### CWRU Hackathon
+## CWRU Hackathon
 
 pass for now
 
-### Tiktok TechJam
+## Tiktok TechJam
 
 pass for now
