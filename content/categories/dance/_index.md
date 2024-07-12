@@ -1,6 +1,6 @@
 ---
 title: Dance
 description: Let's dance!!
-image: /juan-camilo-navia-maim4G7oRlo-unsplash.jpg
+image: /a-woman-dancing-in-orange.jpg
 ---
 
