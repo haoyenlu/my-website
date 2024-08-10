@@ -6,5 +6,5 @@ menu:
     main:
         weight: 2
         params:
-            icon: /icons8-contacts-100.png
+            icon: contacts
 ---
