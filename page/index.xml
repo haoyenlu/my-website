@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Hao-En Lu Blog</title><link>https://haoenlu-blog.ptolemyth.com/page/</link><description>Recent content in Pages on Hao-En Lu Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://haoenlu-blog.ptolemyth.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://haoenlu-blog.ptolemyth.com/contact/</link><pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate><guid>https://haoenlu-blog.ptolemyth.com/contact/</guid><description>&lt;form action="https://public.herotofu.com/v1/90a23950-56d8-11ef-8375-1b1d42270640" method="post" accept-charset="UTF-8">
+&lt;div class="form-group">
+&lt;label for="name">Your Name&lt;/label>
+&lt;input name="Name" id="name" type="text" required />
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="email">Your Email&lt;/label>
+&lt;input name="Email" id="email" type="email" required />
+&lt;/div>
+&lt;div class="form-group">
+&lt;label for="question">Message&lt;/label>
+&lt;input name="Message" id="message" type="text" required />
+&lt;/div>
+&lt;div >
+&lt;input type="submit" value="Submit Request" />
+&lt;div style="text-indent:-99999px; white-space:nowrap; overflow:hidden; position:absolute;" aria-hidden="true">
+&lt;input type="text" name="_gotcha" tabindex="-1" autocomplete="off" />
+&lt;/div>
+&lt;/div>
+&lt;/form></description></item><item><title>Archives</title><link>https://haoenlu-blog.ptolemyth.com/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://haoenlu-blog.ptolemyth.com/archives/</guid><description/></item><item><title>Links</title><link>https://haoenlu-blog.ptolemyth.com/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://haoenlu-blog.ptolemyth.com/links/</guid><description>&lt;p>Click the link to my social media profile!!&lt;/p></description></item><item><title>Search</title><link>https://haoenlu-blog.ptolemyth.com/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://haoenlu-blog.ptolemyth.com/search/</guid><description/></item></channel></rss>
